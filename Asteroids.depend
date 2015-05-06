@@ -1,0 +1,1142 @@
+# depslib dependency file v1.0
+1217542415 source:c:\rune\proj\asteroids\main.cpp
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<GL/gl.h>
+	"SDL.h"
+	"ship.h"
+	"metrics.h"
+	"particle.h"
+	"commons.h"
+	"projectile.h"
+	"rock.h"
+	"sound.h"
+	"model.h"
+	"settings.h"
+	"gltext.h"
+	"main.h"
+	"script.h"
+	"debugout.h"
+
+1199055973 c:\mingw\sdlinst\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199055973 c:\mingw\sdlinst\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199055973 c:\mingw\sdlinst\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1199055973 c:\mingw\sdlinst\include\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1199055973 c:\mingw\sdlinst\include\sdl_platform.h
+
+1199055973 c:\mingw\sdlinst\include\begin_code.h
+
+1199055973 c:\mingw\sdlinst\include\close_code.h
+
+1199055973 c:\mingw\sdlinst\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199055973 c:\mingw\sdlinst\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199055973 c:\mingw\sdlinst\include\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199055973 c:\mingw\sdlinst\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199055973 c:\mingw\sdlinst\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1199055973 c:\mingw\sdlinst\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199055973 c:\mingw\sdlinst\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199055973 c:\mingw\sdlinst\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199055973 c:\mingw\sdlinst\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199055973 c:\mingw\sdlinst\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199055973 c:\mingw\sdlinst\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199055973 c:\mingw\sdlinst\include\sdl_keysym.h
+
+1199055973 c:\mingw\sdlinst\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199055973 c:\mingw\sdlinst\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199055973 c:\mingw\sdlinst\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199055973 c:\mingw\sdlinst\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1199055973 c:\mingw\sdlinst\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199055973 c:\mingw\sdlinst\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199055973 c:\mingw\sdlinst\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1217500653 c:\rune\proj\asteroids\ship.h
+	"entity.h"
+
+1217521664 c:\rune\proj\asteroids\entity.h
+	"metrics.h"
+
+1217087244 c:\rune\proj\asteroids\metrics.h
+	<gl\gl.h>
+	<vector>
+
+1217521771 source:c:\rune\proj\asteroids\entity.cpp
+	"entity.h"
+
+1217501687 source:c:\rune\proj\asteroids\ship.cpp
+	"ship.h"
+	"math.h"
+	"rock.h"
+	"sound.h"
+	"particle.h"
+	"commons.h"
+
+1188858556 source:c:\rune\proj\asteroids\geometry.cpp
+	"geometry.h"
+
+1188904477 c:\rune\proj\asteroids\geometry.h
+	<gl\gl.h>
+	<vector>
+
+1217521128 source:c:\rune\proj\asteroids\commons.cpp
+	<string>
+	<sstream>
+	<algorithm>
+	<vector>
+	"commons.h"
+
+1217521132 c:\rune\proj\asteroids\commons.h
+	<string>
+	<vector>
+
+1188832011 source:c:\rune\proj\asteroids\debugout.cpp
+	<fstream>
+	<string>
+	"debugout.h"
+	"timestamp.h"
+
+1188860301 c:\rune\proj\asteroids\debugout.h
+	<string>
+	"settings.h"
+
+1217321618 c:\rune\proj\asteroids\settings.h
+
+1188831057 c:\rune\proj\asteroids\timestamp.h
+
+1198771651 c:\mingw\include\gl\gl.h
+
+1198772620 c:\mingw\include\math.h
+	<_mingw.h>
+
+1198772617 c:\mingw\include\_mingw.h
+
+1198772622 c:\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1198772622 c:\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1198772624 c:\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1198772622 c:\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1198772620 c:\mingw\include\malloc.h
+	<_mingw.h>
+	<stdlib.h>
+
+1198772621 c:\mingw\include\memory.h
+	<string.h>
+
+1198772622 c:\mingw\include\strings.h
+	<string.h>
+
+1198772619 c:\mingw\include\inttypes.h
+	<_mingw.h>
+	<stdint.h>
+	<stddef.h>
+
+1198772621 c:\mingw\include\stdint.h
+	<stddef.h>
+
+1198772618 c:\mingw\include\ctype.h
+	<_mingw.h>
+	<stddef.h>
+
+1198772621 c:\mingw\include\process.h
+	<_mingw.h>
+	<sys/types.h>
+
+1217541842 source:c:\rune\proj\asteroids\model.cpp
+	<fstream>
+	<string>
+	<vector>
+	<windows.h>
+	<math.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/glext.h>
+	"model.h"
+	"metrics.h"
+	"commons.h"
+	"settings.h"
+	"debugout.h"
+
+1198771649 c:\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1198771649 c:\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1198771650 c:\mingw\include\winuser.h
+
+1198771649 c:\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1198771649 c:\mingw\include\winerror.h
+
+1198771637 c:\mingw\include\basetsd.h
+
+1198771645 c:\mingw\include\pshpack4.h
+
+1198771644 c:\mingw\include\poppack.h
+
+1198771650 c:\mingw\include\winver.h
+
+1198771638 c:\mingw\include\dde.h
+
+1198771638 c:\mingw\include\dlgs.h
+
+1198771637 c:\mingw\include\commctrl.h
+	<prsht.h>
+
+1198771645 c:\mingw\include\prsht.h
+
+1198771649 c:\mingw\include\windef.h
+	<winnt.h>
+
+1198771648 c:\mingw\include\wincon.h
+
+1198771648 c:\mingw\include\winbase.h
+
+1198771649 c:\mingw\include\wingdi.h
+
+1198771649 c:\mingw\include\winnls.h
+
+1198771649 c:\mingw\include\winnetwk.h
+
+1198771649 c:\mingw\include\winreg.h
+
+1198771650 c:\mingw\include\winsvc.h
+
+1198771637 c:\mingw\include\cderr.h
+
+1198771638 c:\mingw\include\ddeml.h
+
+1198771639 c:\mingw\include\imm.h
+
+1198771642 c:\mingw\include\lzexpand.h
+
+1198771642 c:\mingw\include\mmsystem.h
+
+1198771643 c:\mingw\include\nb30.h
+
+1198771646 c:\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1198771646 c:\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1198771637 c:\mingw\include\basetyps.h
+
+1198771646 c:\mingw\include\rpcdcep.h
+
+1198771646 c:\mingw\include\rpcnsi.h
+
+1198771646 c:\mingw\include\rpcnterr.h
+
+1198772619 c:\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1198771647 c:\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1198771645 c:\mingw\include\pshpack2.h
+
+1198771649 c:\mingw\include\winperf.h
+
+1198771637 c:\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1198771648 c:\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1198771643 c:\mingw\include\objfwd.h
+	<basetyps.h>
+
+1198771650 c:\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1198771646 c:\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1198771646 c:\mingw\include\rpcnsip.h
+
+1198771650 c:\mingw\include\winspool.h
+
+1198771650 c:\mingw\include\winsock2.h
+	<windows.h>
+
+1198771650 c:\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1198771643 c:\mingw\include\mswsock.h
+
+1198771644 c:\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1198771643 c:\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1198771644 c:\mingw\include\objidl.h
+	<objfwd.h>
+
+1198771637 c:\mingw\include\cguid.h
+
+1198771644 c:\mingw\include\olectlid.h
+
+1198771644 c:\mingw\include\oleauto.h
+	<oaidl.h>
+
+1198771643 c:\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1198771644 c:\mingw\include\oleidl.h
+	<objfwd.h>
+
+1198771651 c:\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1198771651 c:\mingw\include\gl\glext.h
+	<windows.h>
+
+1217087316 c:\rune\proj\asteroids\model.h
+	<string>
+	<vector>
+	"metrics.h"
+	"gl/gl.h"
+
+1217501529 source:c:\rune\proj\asteroids\particle.cpp
+	<deque>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/glext.h>
+	<windows.h>
+	"metrics.h"
+	"particle.h"
+	"model.h"
+	"settings.h"
+	"debugout.h"
+
+1217501399 c:\rune\proj\asteroids\particle.h
+	<string>
+	<deque>
+	"metrics.h"
+	"gl/gl.h"
+
+1137618438 c:\mingw\include\c++\3.4.5\string
+	<bits/c++config.h>
+	<bits/stringfwd.h>
+	<bits/char_traits.h>
+	<memory>
+	<bits/type_traits.h>
+	<iosfwd>
+	<bits/stl_iterator.h>
+	<bits/stl_function.h>
+	<bits/basic_string.h>
+	<algorithm>
+	<bits/basic_string.tcc>
+
+1137618417 c:\mingw\include\c++\3.4.5\bits\stringfwd.h
+	<bits/c++config.h>
+
+1137618400 c:\mingw\include\c++\3.4.5\bits\char_traits.h
+	<cstring>
+	<bits/stl_algobase.h>
+	<bits/postypes.h>
+
+1137618432 c:\mingw\include\c++\3.4.5\cstring
+	<cstddef>
+	<string.h>
+
+1137618431 c:\mingw\include\c++\3.4.5\cstddef
+	<stddef.h>
+
+1137618410 c:\mingw\include\c++\3.4.5\bits\stl_algobase.h
+	<bits/c++config.h>
+	<cstring>
+	<climits>
+	<cstdlib>
+	<cstddef>
+	<new>
+	<iosfwd>
+	<bits/stl_pair.h>
+	<bits/type_traits.h>
+	<bits/stl_iterator_base_types.h>
+	<bits/stl_iterator_base_funcs.h>
+	<bits/stl_iterator.h>
+	<bits/concept_check.h>
+	<debug/debug.h>
+
+1137618430 c:\mingw\include\c++\3.4.5\climits
+	<limits.h>
+
+1198772620 c:\mingw\include\limits.h
+	<_mingw.h>
+
+1137618432 c:\mingw\include\c++\3.4.5\cstdlib
+	<bits/c++config.h>
+	<cstddef>
+	<stdlib.h>
+
+1137618555 c:\mingw\include\c++\3.4.5\new
+	<cstddef>
+	<exception>
+
+1137618554 c:\mingw\include\c++\3.4.5\exception
+
+1137618435 c:\mingw\include\c++\3.4.5\iosfwd
+	<bits/c++config.h>
+	<bits/c++locale.h>
+	<bits/c++io.h>
+	<cctype>
+	<bits/stringfwd.h>
+	<bits/postypes.h>
+	<bits/functexcept.h>
+
+1137618430 c:\mingw\include\c++\3.4.5\cctype
+	<bits/c++config.h>
+	<ctype.h>
+
+1137618407 c:\mingw\include\c++\3.4.5\bits\postypes.h
+	<cwchar>
+	<stdint.h>
+
+1137618432 c:\mingw\include\c++\3.4.5\cwchar
+	<bits/c++config.h>
+	<cstddef>
+	<ctime>
+	<wchar.h>
+
+1137618432 c:\mingw\include\c++\3.4.5\ctime
+	<cstddef>
+	<time.h>
+
+1198772622 c:\mingw\include\time.h
+	<_mingw.h>
+	<stddef.h>
+
+1198772623 c:\mingw\include\wchar.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<wctype.h>
+	<sys/types.h>
+	<stdint.h>
+
+1198772623 c:\mingw\include\wctype.h
+	<_mingw.h>
+	<stddef.h>
+
+1137618404 c:\mingw\include\c++\3.4.5\bits\functexcept.h
+	<exception_defines.h>
+
+1137618558 c:\mingw\include\c++\3.4.5\exception_defines.h
+
+1137618414 c:\mingw\include\c++\3.4.5\bits\stl_pair.h
+
+1137618417 c:\mingw\include\c++\3.4.5\bits\type_traits.h
+	<bits/c++config.h>
+
+1137618413 c:\mingw\include\c++\3.4.5\bits\stl_iterator_base_types.h
+
+1137618412 c:\mingw\include\c++\3.4.5\bits\stl_iterator_base_funcs.h
+	<bits/concept_check.h>
+
+1137618401 c:\mingw\include\c++\3.4.5\bits\concept_check.h
+	<bits/c++config.h>
+	<bits/boost_concept_check.h>
+
+1137618400 c:\mingw\include\c++\3.4.5\bits\boost_concept_check.h
+	<cstddef>
+	<bits/stl_iterator_base_types.h>
+	<utility>
+
+1137618438 c:\mingw\include\c++\3.4.5\utility
+	<bits/c++config.h>
+	<bits/stl_relops.h>
+	<bits/stl_pair.h>
+
+1137618415 c:\mingw\include\c++\3.4.5\bits\stl_relops.h
+
+1137618412 c:\mingw\include\c++\3.4.5\bits\stl_iterator.h
+
+1137618440 c:\mingw\include\c++\3.4.5\debug\debug.h
+	<cassert>
+	<stddef.h>
+	<bits/stl_iterator_base_types.h>
+	<bits/type_traits.h>
+	<debug/formatter.h>
+
+1137618429 c:\mingw\include\c++\3.4.5\cassert
+	<assert.h>
+
+1198772618 c:\mingw\include\assert.h
+	<_mingw.h>
+
+1137618440 c:\mingw\include\c++\3.4.5\debug\formatter.h
+	<typeinfo>
+	<debug/debug.h>
+
+1137618556 c:\mingw\include\c++\3.4.5\typeinfo
+	<exception>
+
+1137618436 c:\mingw\include\c++\3.4.5\memory
+	<bits/stl_algobase.h>
+	<bits/allocator.h>
+	<bits/stl_construct.h>
+	<bits/stl_iterator_base_types.h>
+	<bits/stl_uninitialized.h>
+	<bits/stl_raw_storage_iter.h>
+	<debug/debug.h>
+	<limits>
+
+1137618398 c:\mingw\include\c++\3.4.5\bits\allocator.h
+	<bits/c++allocator.h>
+
+1137618411 c:\mingw\include\c++\3.4.5\bits\stl_construct.h
+	<bits/type_traits.h>
+	<new>
+
+1137618416 c:\mingw\include\c++\3.4.5\bits\stl_uninitialized.h
+	<cstring>
+
+1137618415 c:\mingw\include\c++\3.4.5\bits\stl_raw_storage_iter.h
+
+1137618436 c:\mingw\include\c++\3.4.5\limits
+	<bits/c++config.h>
+
+1137618412 c:\mingw\include\c++\3.4.5\bits\stl_function.h
+
+1137618400 c:\mingw\include\c++\3.4.5\bits\basic_string.h
+	<bits/atomicity.h>
+	<debug/debug.h>
+
+1137618399 c:\mingw\include\c++\3.4.5\bits\atomicity.h
+	<bits/atomic_word.h>
+
+1137618433 c:\mingw\include\c++\3.4.5\algorithm
+	<bits/stl_algobase.h>
+	<bits/stl_construct.h>
+	<bits/stl_uninitialized.h>
+	<bits/stl_algo.h>
+
+1137618409 c:\mingw\include\c++\3.4.5\bits\stl_algo.h
+	<bits/stl_heap.h>
+	<bits/stl_tempbuf.h>
+	<debug/debug.h>
+
+1137618412 c:\mingw\include\c++\3.4.5\bits\stl_heap.h
+	<debug/debug.h>
+
+1137618415 c:\mingw\include\c++\3.4.5\bits\stl_tempbuf.h
+	<memory>
+
+1137618400 c:\mingw\include\c++\3.4.5\bits\basic_string.tcc
+
+1137618437 c:\mingw\include\c++\3.4.5\sstream
+	<istream>
+	<ostream>
+	<bits/sstream.tcc>
+
+1137618435 c:\mingw\include\c++\3.4.5\istream
+	<ios>
+	<limits>
+	<bits/istream.tcc>
+
+1137618434 c:\mingw\include\c++\3.4.5\ios
+	<iosfwd>
+	<exception>
+	<bits/char_traits.h>
+	<cstdio>
+	<bits/localefwd.h>
+	<bits/ios_base.h>
+	<streambuf>
+	<bits/basic_ios.h>
+
+1137618431 c:\mingw\include\c++\3.4.5\cstdio
+	<bits/c++config.h>
+	<cstddef>
+	<stdio.h>
+
+1137618406 c:\mingw\include\c++\3.4.5\bits\localefwd.h
+	<bits/c++config.h>
+	<bits/c++locale.h>
+	<iosfwd>
+	<bits/functexcept.h>
+
+1137618405 c:\mingw\include\c++\3.4.5\bits\ios_base.h
+	<bits/atomicity.h>
+	<bits/localefwd.h>
+	<bits/locale_classes.h>
+
+1137618405 c:\mingw\include\c++\3.4.5\bits\locale_classes.h
+	<bits/localefwd.h>
+	<cstring>
+	<string>
+	<bits/atomicity.h>
+	<bits/gthr.h>
+
+1137618438 c:\mingw\include\c++\3.4.5\streambuf
+	<bits/c++config.h>
+	<iosfwd>
+	<bits/localefwd.h>
+	<bits/ios_base.h>
+	<bits/streambuf.tcc>
+
+1137618417 c:\mingw\include\c++\3.4.5\bits\streambuf.tcc
+
+1137618399 c:\mingw\include\c++\3.4.5\bits\basic_ios.h
+	<bits/streambuf_iterator.h>
+	<bits/localefwd.h>
+	<bits/locale_classes.h>
+	<bits/locale_facets.h>
+	<bits/basic_ios.tcc>
+
+1137618407 c:\mingw\include\c++\3.4.5\bits\streambuf_iterator.h
+	<streambuf>
+	<debug/debug.h>
+
+1137618406 c:\mingw\include\c++\3.4.5\bits\locale_facets.h
+	<ctime>
+	<cwctype>
+	<iosfwd>
+	<bits/ios_base.h>
+	<streambuf>
+	<bits/ctype_base.h>
+	<bits/ctype_inline.h>
+	<bits/codecvt.h>
+	<bits/time_members.h>
+	<bits/messages_members.h>
+
+1137618432 c:\mingw\include\c++\3.4.5\cwctype
+	<bits/c++config.h>
+	<wctype.h>
+
+1137618401 c:\mingw\include\c++\3.4.5\bits\codecvt.h
+	<bits/codecvt_specializations.h>
+
+1137618399 c:\mingw\include\c++\3.4.5\bits\basic_ios.tcc
+
+1137618405 c:\mingw\include\c++\3.4.5\bits\istream.tcc
+	<locale>
+	<ostream>
+
+1137618436 c:\mingw\include\c++\3.4.5\locale
+	<bits/localefwd.h>
+	<bits/locale_classes.h>
+	<bits/locale_facets.h>
+	<bits/locale_facets.tcc>
+
+1137618406 c:\mingw\include\c++\3.4.5\bits\locale_facets.tcc
+	<limits>
+	<typeinfo>
+	<bits/streambuf_iterator.h>
+
+1137618437 c:\mingw\include\c++\3.4.5\ostream
+	<ios>
+	<bits/ostream.tcc>
+
+1137618407 c:\mingw\include\c++\3.4.5\bits\ostream.tcc
+	<locale>
+
+1137618409 c:\mingw\include\c++\3.4.5\bits\sstream.tcc
+	<sstream>
+
+1137618439 c:\mingw\include\c++\3.4.5\vector
+	<bits/functexcept.h>
+	<bits/stl_algobase.h>
+	<bits/allocator.h>
+	<bits/stl_construct.h>
+	<bits/stl_uninitialized.h>
+	<bits/stl_vector.h>
+	<bits/stl_bvector.h>
+	<bits/vector.tcc>
+	<debug/vector>
+
+1137618416 c:\mingw\include\c++\3.4.5\bits\stl_vector.h
+	<bits/stl_iterator_base_funcs.h>
+	<bits/functexcept.h>
+	<bits/concept_check.h>
+
+1137618410 c:\mingw\include\c++\3.4.5\bits\stl_bvector.h
+	<bits/stl_vector.h>
+
+1137618418 c:\mingw\include\c++\3.4.5\bits\vector.tcc
+
+1137618448 c:\mingw\include\c++\3.4.5\debug\vector
+	<vector>
+	<debug/safe_sequence.h>
+	<debug/safe_iterator.h>
+	<utility>
+
+1137618447 c:\mingw\include\c++\3.4.5\debug\safe_sequence.h
+	<debug/debug.h>
+	<debug/safe_base.h>
+
+1137618445 c:\mingw\include\c++\3.4.5\debug\safe_base.h
+
+1137618445 c:\mingw\include\c++\3.4.5\debug\safe_iterator.h
+	<bits/stl_pair.h>
+	<debug/debug.h>
+	<debug/formatter.h>
+	<debug/safe_base.h>
+	<bits/cpp_type_traits.h>
+	<debug/safe_iterator.tcc>
+
+1137618403 c:\mingw\include\c++\3.4.5\bits\cpp_type_traits.h
+
+1137618447 c:\mingw\include\c++\3.4.5\debug\safe_iterator.tcc
+
+1137618434 c:\mingw\include\c++\3.4.5\fstream
+	<istream>
+	<ostream>
+	<locale>
+	<cstdio>
+	<bits/basic_file.h>
+	<bits/gthr.h>
+	<bits/fstream.tcc>
+
+1137618403 c:\mingw\include\c++\3.4.5\bits\fstream.tcc
+
+1137618434 c:\mingw\include\c++\3.4.5\deque
+	<bits/functexcept.h>
+	<bits/stl_algobase.h>
+	<bits/allocator.h>
+	<bits/stl_construct.h>
+	<bits/stl_uninitialized.h>
+	<bits/stl_deque.h>
+	<bits/deque.tcc>
+	<debug/deque>
+
+1137618412 c:\mingw\include\c++\3.4.5\bits\stl_deque.h
+	<bits/concept_check.h>
+	<bits/stl_iterator_base_types.h>
+	<bits/stl_iterator_base_funcs.h>
+
+1137618403 c:\mingw\include\c++\3.4.5\bits\deque.tcc
+
+1137618440 c:\mingw\include\c++\3.4.5\debug\deque
+	<deque>
+	<debug/safe_sequence.h>
+	<debug/safe_iterator.h>
+
+1137618451 c:\mingw\include\c++\3.4.5\mingw32\bits\c++config.h
+	<bits/os_defines.h>
+
+1137618450 c:\mingw\include\c++\3.4.5\mingw32\bits\os_defines.h
+
+1137618452 c:\mingw\include\c++\3.4.5\mingw32\bits\c++locale.h
+	<clocale>
+	<cstring>
+	<cstdio>
+
+1137618430 c:\mingw\include\c++\3.4.5\clocale
+	<locale.h>
+
+1198772620 c:\mingw\include\locale.h
+	<_mingw.h>
+	<stddef.h>
+	<stddef.h>
+
+1137618451 c:\mingw\include\c++\3.4.5\mingw32\bits\c++io.h
+	<cstdio>
+	<cstddef>
+	<bits/gthr.h>
+
+1137618453 c:\mingw\include\c++\3.4.5\mingw32\bits\gthr.h
+	<bits/gthr-posix.h>
+	<bits/gthr-dce.h>
+	<bits/gthr-solaris.h>
+	<bits/gthr-default.h>
+	<bits/gthr-single.h>
+
+1137618454 c:\mingw\include\c++\3.4.5\mingw32\bits\gthr-posix.h
+	<pthread.h>
+	<unistd.h>
+	<config.h>
+	<sched.h>
+
+1198772622 c:\mingw\include\unistd.h
+	<io.h>
+	<process.h>
+	<getopt.h>
+
+1198772619 c:\mingw\include\io.h
+	<_mingw.h>
+	<sys/types.h>
+
+1198772619 c:\mingw\include\getopt.h
+
+1137618454 c:\mingw\include\c++\3.4.5\mingw32\bits\gthr-default.h
+	<errno.h>
+	<_mingw.h>
+	<windows.h>
+	<windows.h>
+	<errno.h>
+
+1198772619 c:\mingw\include\errno.h
+	<_mingw.h>
+
+1137618453 c:\mingw\include\c++\3.4.5\mingw32\bits\gthr-single.h
+
+1137618451 c:\mingw\include\c++\3.4.5\mingw32\bits\c++allocator.h
+	<ext/new_allocator.h>
+
+1137618427 c:\mingw\include\c++\3.4.5\ext\new_allocator.h
+	<new>
+
+1137618450 c:\mingw\include\c++\3.4.5\mingw32\bits\atomic_word.h
+
+1137618449 c:\mingw\include\c++\3.4.5\mingw32\bits\ctype_base.h
+
+1137618449 c:\mingw\include\c++\3.4.5\mingw32\bits\ctype_inline.h
+
+1137618453 c:\mingw\include\c++\3.4.5\mingw32\bits\codecvt_specializations.h
+
+1137618452 c:\mingw\include\c++\3.4.5\mingw32\bits\time_members.h
+
+1137618452 c:\mingw\include\c++\3.4.5\mingw32\bits\messages_members.h
+
+1137618450 c:\mingw\include\c++\3.4.5\mingw32\bits\basic_file.h
+	<bits/c++config.h>
+	<ios>
+
+1217086776 source:c:\rune\proj\asteroids\timestamp.c
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<ctime>
+	"timestamp.H"
+
+1137618435 c:\mingw\include\c++\3.4.5\iostream
+	<bits/c++config.h>
+	<ostream>
+	<istream>
+
+1137618434 c:\mingw\include\c++\3.4.5\iomanip
+	<bits/c++config.h>
+	<istream>
+	<functional>
+
+1137618434 c:\mingw\include\c++\3.4.5\functional
+	<bits/c++config.h>
+	<cstddef>
+	<bits/stl_function.h>
+
+1217087284 source:c:\rune\proj\asteroids\metrics.cpp
+	"metrics.h"
+
+1217240239 source:c:\rune\proj\asteroids\projectile.cpp
+	"projectile.h"
+	"settings.h"
+	"model.h"
+	"rock.h"
+
+1217146559 c:\rune\proj\asteroids\projectile.h
+	<string>
+	<deque>
+	"entity.h"
+
+1217521810 c:\rune\proj\asteroids\rock.h
+	<string>
+	<deque>
+	"entity.h"
+
+1217521296 source:c:\rune\proj\asteroids\rock.cpp
+	"rock.h"
+	"settings.h"
+	"model.h"
+	"math.h"
+	"commons.h"
+	"particle.h"
+	"sound.h"
+	"main.h"
+
+1217541977 c:\rune\proj\asteroids\sound.h
+
+1217542188 source:c:\rune\proj\asteroids\sound.cpp
+	<sstream>
+	"sound.h"
+	"FMOD/fmod.h"
+	"debugout.h"
+
+1176048284 c:\mingw\include\fmod\fmod.h
+
+1217521790 c:\rune\proj\asteroids\main.h
+
+1217429224 source:c:\rune\proj\asteroids\gltext.cpp
+	<gl/gl.h>
+	<string>
+	"model.h"
+	"settings.h"
+	"gltext.h"
+	"main.h"
+
+1189110934 c:\rune\proj\asteroids\gltext.h
+	<gl/gl.h>
+
+1217542083 source:c:\rune\proj\asteroids\script.cpp
+	<vector>
+	<string>
+	"script.h"
+	"settings.h"
+	"debugout.h"
+	"commons.h"
+	"math.h"
+
+1217540933 c:\rune\proj\asteroids\script.h
+	<string>
+	<lua.hpp>
+
+1189705309 c:\mingw\include\lua.hpp
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+
+1174655550 c:\mingw\include\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1174690914 c:\mingw\include\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<unistd.h>
+	<io.h>
+	<stdio.h>
+	<stdio.h>
+	<readline/readline.h>
+	<readline/history.h>
+	<assert.h>
+	<math.h>
+	<unistd.h>
+
+1135696320 c:\mingw\include\lualib.h
+	"lua.h"
+
+1189705589 c:\mingw\include\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+

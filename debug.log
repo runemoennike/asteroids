@@ -1,0 +1,130 @@
+2008 Aug 214 00:04:10> Success: cModel::loadTexture(): Loaded texture 'data/fnts/generic.bmp'
+2008 Aug 214 00:04:10> Success: cModel::loadTexture(): Loaded texture 'data/texs/particle.bmp'
+2008 Aug 214 00:04:10> Success: cModel::loadTexture(): Loaded texture 'data/texs/Rock.bmp'
+2008 Aug 214 00:04:10> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2008 Aug 214 00:04:10> Success: cModel::loadTexture(): Loaded texture 'data/texs/projectile.bmp'
+2008 Aug 214 00:04:10> Success: cModel::loadTexture(): Loaded texture 'data/texs/bg1.bmp'
+2008 Aug 214 00:04:10> Script(VM:0): Script initialization.
+2008 Aug 214 00:06:20> Success: cModel::loadTexture(): Loaded texture 'data/fnts/generic.bmp'
+2008 Aug 214 00:06:20> Success: cModel::loadTexture(): Loaded texture 'data/texs/particle.bmp'
+2008 Aug 214 00:06:20> Success: cModel::loadTexture(): Loaded texture 'data/texs/Rock.bmp'
+2008 Aug 214 00:06:20> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2008 Aug 214 00:06:20> Success: cModel::loadTexture(): Loaded texture 'data/texs/projectile.bmp'
+2008 Aug 214 00:06:20> Success: cModel::loadTexture(): Loaded texture 'data/texs/bg1.bmp'
+2008 Aug 214 00:06:20> Script(VM:0): Script initialization.
+2008 Aug 214 00:08:04> Success: cModel::loadTexture(): Loaded texture 'data/fnts/generic.bmp'
+2008 Aug 214 00:08:04> Success: cModel::loadTexture(): Loaded texture 'data/texs/particle.bmp'
+2008 Aug 214 00:08:04> Success: cModel::loadTexture(): Loaded texture 'data/texs/Rock.bmp'
+2008 Aug 214 00:08:04> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2008 Aug 214 00:08:04> Success: cModel::loadTexture(): Loaded texture 'data/texs/projectile.bmp'
+2008 Aug 214 00:08:05> Success: cModel::loadTexture(): Loaded texture 'data/texs/bg1.bmp'
+2008 Aug 214 00:08:05> Script(VM:0): Script initialization.
+2008 Aug 214 00:08:05> Script: Deiniting VM:0
+2008 Aug 214 00:11:48> Video: SDL inited.
+2008 Aug 214 00:11:48> Video: OpenGL inited, videomode set.
+2008 Aug 214 00:11:48> Sound: Sound sub-system inited, effects loaded.
+2008 Aug 214 00:11:48> Success: cModel::loadTexture(): Loaded texture 'data/fnts/generic.bmp'
+2008 Aug 214 00:11:48> Success: cModel::loadTexture(): Loaded texture 'data/texs/particle.bmp'
+2008 Aug 214 00:11:48> Success: cModel::loadTexture(): Loaded texture 'data/texs/Rock.bmp'
+2008 Aug 214 00:11:48> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2008 Aug 214 00:11:48> Success: cModel::loadTexture(): Loaded texture 'data/texs/projectile.bmp'
+2008 Aug 214 00:11:48> Success: cModel::loadTexture(): Loaded texture 'data/texs/bg1.bmp'
+2008 Aug 214 00:11:48> Script(VM:0): Script initialization.
+2008 Aug 214 00:11:51> Script: Deiniting VM:0
+2008 Aug 214 00:11:51> Sound: Deinited.
+2008 Aug 214 00:13:36> --- Program start ---
+2008 Aug 214 00:13:36> Video: SDL inited.
+2008 Aug 214 00:13:37> Video: OpenGL inited, videomode set.
+2008 Aug 214 00:13:37> Sound: Sound sub-system inited, effects loaded.
+2008 Aug 214 00:13:37> Success: cModel::loadTexture(): Loaded texture 'data/fnts/generic.bmp'
+2008 Aug 214 00:13:37> Success: cModel::loadTexture(): Loaded texture 'data/texs/particle.bmp'
+2008 Aug 214 00:13:37> Success: cModel::loadTexture(): Loaded texture 'data/texs/Rock.bmp'
+2008 Aug 214 00:13:37> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2008 Aug 214 00:13:37> Success: cModel::loadTexture(): Loaded texture 'data/texs/projectile.bmp'
+2008 Aug 214 00:13:37> Success: cModel::loadTexture(): Loaded texture 'data/texs/bg1.bmp'
+2008 Aug 214 00:13:37> Script(VM:0): Script initialization.
+2008 Aug 214 00:13:38> Script: Deiniting VM:0
+2008 Aug 214 00:13:38> Sound: Deinited.
+2008 Aug 214 00:13:38> Program end.
+2008 Aug 225 00:38:03> --- Program start ---
+2008 Aug 225 00:38:03> Video: SDL inited.
+2008 Aug 225 00:38:04> Video: OpenGL inited, videomode set.
+2008 Aug 225 00:38:04> Sound: Sound sub-system inited, effects loaded.
+2008 Aug 225 00:38:04> Success: cModel::loadTexture(): Loaded texture 'data/fnts/generic.bmp'
+2008 Aug 225 00:38:04> Success: cModel::loadTexture(): Loaded texture 'data/texs/particle.bmp'
+2008 Aug 225 00:38:04> Success: cModel::loadTexture(): Loaded texture 'data/texs/Rock.bmp'
+2008 Aug 225 00:38:04> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2008 Aug 225 00:38:04> Success: cModel::loadTexture(): Loaded texture 'data/texs/projectile.bmp'
+2008 Aug 225 00:38:04> Success: cModel::loadTexture(): Loaded texture 'data/texs/bg1.bmp'
+2008 Aug 225 00:38:04> Script(VM:0): Script initialization.
+2008 Aug 225 00:48:09> Script: Deiniting VM:0
+2008 Aug 225 00:48:09> Sound: Deinited.
+2008 Aug 225 00:48:09> Program end.
+2009 Mar 060 17:23:15> --- Program start ---
+2009 Mar 060 17:23:15> Video: SDL inited.
+2009 Mar 060 17:23:16> Video: OpenGL inited, videomode set.
+2009 Mar 060 17:23:16> Sound: Sound sub-system inited, effects loaded.
+2009 Mar 060 17:23:16> Success: cModel::loadTexture(): Loaded texture 'data/fnts/generic.bmp'
+2009 Mar 060 17:23:16> Success: cModel::loadTexture(): Loaded texture 'data/texs/particle.bmp'
+2009 Mar 060 17:23:16> Success: cModel::loadTexture(): Loaded texture 'data/texs/Rock.bmp'
+2009 Mar 060 17:23:16> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2009 Mar 060 17:23:16> Success: cModel::loadTexture(): Loaded texture 'data/texs/projectile.bmp'
+2009 Mar 060 17:23:17> Success: cModel::loadTexture(): Loaded texture 'data/texs/bg1.bmp'
+2009 Mar 060 17:23:17> Script(VM:0): Script initialization.
+2009 Mar 060 17:25:54> Script: Deiniting VM:0
+2009 Mar 060 17:25:54> Sound: Deinited.
+2009 Mar 060 17:25:54> Program end.
+2010 Feb 035 15:47:59> --- Program start ---
+2010 Feb 035 15:48:00> Video: OpenGL inited, videomode set.
+2010 Feb 035 15:48:01> Sound: Sound sub-system inited, effects loaded.
+2010 Feb 035 15:48:01> Success: cModel::loadTexture(): Loaded texture 'data/fnts/generic.bmp'
+2010 Feb 035 15:48:01> Success: cModel::loadTexture(): Loaded texture 'data/texs/particle.bmp'
+2010 Feb 035 15:48:01> Success: cModel::loadTexture(): Loaded texture 'data/texs/Rock.bmp'
+2010 Feb 035 15:48:01> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2010 Feb 035 15:48:01> Success: cModel::loadTexture(): Loaded texture 'data/texs/projectile.bmp'
+2010 Feb 035 15:48:01> Script(VM:0): Script initialization.
+2010 Feb 035 15:50:15> Script: Deiniting VM:0
+2010 Feb 035 15:50:15> Sound: Deinited.
+2010 Feb 035 15:50:15> Program end.
+2011 Mar 088 19:31:32> --- Program start ---
+2011 Mar 088 19:31:32> Video: SDL inited.
+2011 Mar 088 19:31:33> Video: OpenGL inited, videomode set.
+2011 Mar 088 19:31:33> Sound: Sound sub-system inited, effects loaded.
+2011 Mar 088 19:31:33> Success: cModel::loadTexture(): Loaded texture 'data/fnts/generic.bmp'
+2011 Mar 088 19:31:33> Success: cModel::loadTexture(): Loaded texture 'data/texs/particle.bmp'
+2011 Mar 088 19:31:33> Success: cModel::loadTexture(): Loaded texture 'data/texs/Rock.bmp'
+2011 Mar 088 19:31:33> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2011 Mar 088 19:31:33> Success: cModel::loadTexture(): Loaded texture 'data/texs/projectile.bmp'
+2011 Mar 088 19:31:34> Success: cModel::loadTexture(): Loaded texture 'data/texs/bg1.bmp'
+2011 Mar 088 19:31:34> Script(VM:0): Script initialization.
+2011 Mar 088 19:32:30> Script: Deiniting VM:0
+2011 Mar 088 19:32:30> Sound: Deinited.
+2011 Mar 088 19:32:30> Program end.
+2015 May 126 22:10:26> --- Program start ---
+2015 May 126 22:10:26> Video: SDL inited.
+2015 May 126 22:10:26> Video: OpenGL inited, videomode set.
+2015 May 126 22:10:26> Sound: Sound sub-system inited, effects loaded.
+2015 May 126 22:10:26> Success: cModel::loadTexture(): Loaded texture 'data/fnts/generic.bmp'
+2015 May 126 22:10:26> Success: cModel::loadTexture(): Loaded texture 'data/texs/particle.bmp'
+2015 May 126 22:10:26> Success: cModel::loadTexture(): Loaded texture 'data/texs/Rock.bmp'
+2015 May 126 22:10:26> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2015 May 126 22:10:26> Success: cModel::loadTexture(): Loaded texture 'data/texs/projectile.bmp'
+2015 May 126 22:10:27> Success: cModel::loadTexture(): Loaded texture 'data/texs/bg1.bmp'
+2015 May 126 22:10:27> Script(VM:0): Script initialization.
+2015 May 126 22:11:12> Script: Deiniting VM:0
+2015 May 126 22:11:12> Sound: Deinited.
+2015 May 126 22:11:12> Program end.
+2015 May 126 22:22:32> --- Program start ---
+2015 May 126 22:22:32> Video: SDL inited.
+2015 May 126 22:22:33> Video: OpenGL inited, videomode set.
+2015 May 126 22:22:33> Sound: Sound sub-system inited, effects loaded.
+2015 May 126 22:22:33> Success: cModel::loadTexture(): Loaded texture 'data/fnts/generic.bmp'
+2015 May 126 22:22:33> Success: cModel::loadTexture(): Loaded texture 'data/texs/particle.bmp'
+2015 May 126 22:22:33> Success: cModel::loadTexture(): Loaded texture 'data/texs/Rock.bmp'
+2015 May 126 22:22:33> Success: cModel::loadFile(): Loaded model from file 'data/mdls/rock.obj'
+2015 May 126 22:22:33> Success: cModel::loadTexture(): Loaded texture 'data/texs/projectile.bmp'
+2015 May 126 22:22:33> Success: cModel::loadTexture(): Loaded texture 'data/texs/bg1.bmp'
+2015 May 126 22:22:33> Script(VM:0): Script initialization.
+2015 May 126 22:22:43> Script: Deiniting VM:0
+2015 May 126 22:22:43> Sound: Deinited.
+2015 May 126 22:22:43> Program end.
